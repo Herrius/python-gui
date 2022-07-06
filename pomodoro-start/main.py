@@ -1,5 +1,4 @@
-from cgitb import text
-from tabnanny import check
+
 from tkinter import *
 import math
 # ---------------------------- CONSTANTS ------------------------------- #
